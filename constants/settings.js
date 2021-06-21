@@ -1,0 +1,1 @@
+export const GOOGLE_ANALYTICS_ID = 'G-K31CL1J9T2';
